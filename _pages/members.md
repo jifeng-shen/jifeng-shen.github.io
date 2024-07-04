@@ -1,6 +1,8 @@
 ---
-layout: default
-title: 组员信息
+permalink: /members/
+title: "组员信息"
+redirect_from: 
+  - /members/
 ---
 
 # 组员信息

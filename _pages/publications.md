@@ -121,16 +121,17 @@ author_profile: true
 38. Recognition of Crop Seedlings and Weeds Based on Convolutional Neural Network with Dilated Convolution and Global Pooling.  
     Jun Sun, Xiaofei He, Wenjun Tan, Xiaohong Wu, **Jifeng Shen**, Hu Lu.  
     *<font color="blue">Transactions of the Chinese Society of Agricultural Engineering</font>*, 34(11): 159-165, 2018.
-39. Multi-view Face Detection Based on Multi-channel Image Discriminant Projection and HAAR Features.  
+39. Multi-view Face Detection Based on Multi-channel Image Discriminant Projection and HAAR Features.(In Chinese)  
     **Jifeng Shen***, Shiwei Shi, Xin Zuo, Dan Xu.  
     *<font color="blue">Journal of Data Acquisition and Processing</font>*, 33(2): 270-279, 2018.
-40. Anchor-Free Multispectral Pedestrian Detection Algorithm Based on Differential Feature Attention Mechanism.  
+40. Anchor-Free Multispectral Pedestrian Detection Algorithm Based on Differential Feature Attention Mechanism.(In Chinese)  
     **Jifeng Shen***, Yue Liu, Hao Wei, Xin Zuo, Wankou Yang.  
     *<font color="blue">Journal of Intelligent Science and Technology</font>*, 3(3): 294-303, 2021.
-41. Recognition of Crop Leaf Diseases Based on Feature-Level and Decision-Level Fusion.  
+41. Recognition of Crop Leaf Diseases Based on Feature-Level and Decision-Level Fusion.(In Chinese)  
     Ziheng Wang, **Jifeng Shen**, Xin Zuo, Xiaohong Wu, Jun Sun.  
-    *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 45(3): 286-294, 2024.
-42. Pedestrian Detection Method for Complex Scenes Based on Dual Keypoint Combination.  
+    *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 45(3): 286-294, 2024. 
+43. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  
+42. Pedestrian Detection Method for Complex Scenes Based on Dual Keypoint Combination.(In Chinese)  
     Changbao Sheng, **Jifeng Shen**, Yifei Chen, Xin Zuo, Wankou Yang.  
     *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 2023. (Accepted)
 43. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  

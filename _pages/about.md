@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "在这里输入标题"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-**Jifeng Shen**, PhD, is an Associate Professor at the School of Electrical and Information Engineering, Jiangsu University. His research focuses on pattern recognition, computer vision, and machine learning, with an emphasis on multimodal image and video analysis, including target detection, image retrieval, pose estimation, and behavior analysis. Dr. Shen has also worked extensively in the fields of biomedical signal processing and agricultural image recognition.
+Jifeng Shen, PhD, is an Associate Professor at the School of Electrical and Information Engineering, Jiangsu University. His research focuses on pattern recognition, computer vision, and machine learning, with an emphasis on multimodal image and video analysis, including target detection, image retrieval, pose estimation, and behavior analysis. Dr. Shen has also worked extensively in the fields of biomedical signal processing and agricultural image recognition.
 
 He holds a PhD in Pattern Recognition and Intelligent Systems from Southeast University, a Master’s in Computer Science from Jiangsu University of Science and Technology, and a Bachelor's in Computer Applications from East China Shipbuilding Institute. In addition, he completed postdoctoral research at Jiangsu University, under the guidance of Professor Guohai Liu, and was a visiting scholar at Temple University, collaborating with Professor Haibin Ling.
 
@@ -42,7 +42,7 @@ Dr. Shen is a member of the Pattern Recognition Special Committee of the Jiangsu
 
 ---
 
-### **Research Projects**
+## **Research Projects**
 
 1. **National Natural Science Foundation of China**: Intelligent Video-Based Face Image Recognition and Understanding via Manifold Learning (No. 90820009), 2009.1–2011.12. (Participant)
 

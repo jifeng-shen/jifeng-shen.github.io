@@ -136,58 +136,56 @@ author_profile: true
 43. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  
     Xin Zuo, Chenhui Qi, Yifei Chen, **Jifeng Shen**, Heng Fan and Wankou Yang.
     *<font color="blue">IEEE Access</font>*, vol 12, pp. 114212-114226, 2024.
----
-
 
 
 # Conference Papers
 
-1. Training a Lightweight CNN Model for Fine-Grained Sewer Pipe Cracks Classification Based on Knowledge Distillation.
+1. Training a Lightweight CNN Model for Fine-Grained Sewer Pipe Cracks Classification Based on Knowledge Distillation.  
    Beier Ma, Xin Zuo, **Jifeng Shen**, Xin Shu, Shucheng Huang, Yuanhao Li.
    *<font color="blue">5th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)</font>*, 2022, pp. 426-431. (**EI**)
-2. Feature Fusion with Slim Non-Local Module for Multispectral Pedestrian Detection.
+2. Feature Fusion with Slim Non-Local Module for Multispectral Pedestrian Detection.  
    Yue Liu, **Jifeng Shen**, Xin Zuo, Wankou Yang.
    *<font color="blue">Chinese Control and Decision Conference</font>*, 2022, pp. 594-599. (**EI**)
-3. Spatial and Channel-wise Attention in Multimodality Feature Fusion for Multispectral Pedestrian Detection.
+3. Spatial and Channel-wise Attention in Multimodality Feature Fusion for Multispectral Pedestrian Detection.  
    Hao Wei, **Jifeng Shen**, Xin Zuo, Wankou Yang.
    *<font color="blue">International Conference on Internet of Things and Intelligent Applications (ITIA)</font>*, 2020, pp. 1-5. (**EI**)
-4. Fast Monocular Vision Based Vehicle Distance Measurement by License Plate Localization.
+4. Fast Monocular Vision Based Vehicle Distance Measurement by License Plate Localization.  
    Yaoye Song, Guohai Liu, Yonggui He, **Jifeng Shen**.
    *<font color="blue">Chinese Automation Congress</font>*, 2018, pp. 2774-2779. (**EI**)
-5. Using LFDA to Learn Subset-Haar-Like Intermediate Feature Weights for Pedestrian Detection.
+5. Using LFDA to Learn Subset-Haar-Like Intermediate Feature Weights for Pedestrian Detection.  
    Kai Zang, **Jifeng Shen**, Wankou Yang.
    *<font color="blue">International Conference on Intelligent Science and Big Data Engineering</font>*, 2017, pp. 215-230. (**EI**)
-6. A Novel Discriminative Weighted Pooling Feature for Multi-View Face Detection.
+6. A Novel Discriminative Weighted Pooling Feature for Multi-View Face Detection.  
    Shiwei Shi, **Jifeng Shen**, Xin Zuo, Wankou Yang.
    *<font color="blue">Chinese Conference on Pattern Recognition</font>*, 2016, pp. 437-448. (**EI**)
-7. Local Dual-Cross Ternary Pattern for Feature Representation.
+7. Local Dual-Cross Ternary Pattern for Feature Representation.  
    Peng Zhou, Yucong Peng, **Jifeng Shen**, Baochang Zhang, Wankou Yang.
    *<font color="blue">Chinese Conference on Biometric Recognition</font>*, 2016, pp. 600-608. (**EI**)
-8. Understanding Software Reengineering Requirements for Cloud-Oriented Service Architecture.
+8. Understanding Software Reengineering Requirements for Cloud-Oriented Service Architecture.  
    Shang Zheng, Xin Zuo, Hualong Yu, Hongji Yang, **Jifeng Shen**.
    *<font color="blue">International Conference on Automation and Computing</font>*, 2016, pp. 48-53. (**EI**)
-9. Fast Human Detection Based on Multiple Channel Maps.
+9. Fast Human Detection Based on Multiple Channel Maps.  
    Xin Zuo, **Jifeng Shen**, Hualong Yu, Yuanyuan Dan.
    *<font color="blue">Advances in Neural Networks – ISNN</font>*, 2015, pp. 240-247. (**EI**)
-10. Real-Time Human Detection Based on Optimized Integrated Channel Features.
+10. Real-Time Human Detection Based on Optimized Integrated Channel Features.  
     **Jifeng Shen**, Xin Zuo, Wankou Yang, Guohai Liu.
     *<font color="blue">Chinese Conference on Pattern Recognition</font>*, 2014, pp. 286-295. (**EI**)
-11. Ensemble Harr and MB-LBP Features for License Plate Detection.
+11. Ensemble Harr and MB-LBP Features for License Plate Detection.  
     Qiuping Pan, **Jifeng Shen**, Wankou Yang, Changyin Sun.
     *<font color="blue">IScIDE</font>*, 2012, pp. 223-230. (**EI**)
-12. Fast Human Detection Based on Enhanced Variable Size HOG Features.
+12. Fast Human Detection Based on Enhanced Variable Size HOG Features.  
     **Jifeng Shen**, Changyin Sun, Wankou Yang, Zhongxi Sun.
     *<font color="blue">8th International Symposium on Neural Networks</font>*, 2011, pp. 342-349. (**EI**)
-13. Learning Discriminative Features Based on Distribution.
+13. Learning Discriminative Features Based on Distribution.  
     **Jifeng Shen**, Wankou Yang, Changyin Sun.
     *<font color="blue">International Conference on Pattern Recognition</font>*, 2010, pp. 1401-1404. (Oral) (**EI**)
-14. A Novel Distribution-Based Features for Face Detection.
+14. A Novel Distribution-Based Features for Face Detection.  
     **Jifeng Shen**, Wankou Yang, Changyin Sun, Zhongxi Sun.
     *<font color="blue">Chinese Conference on Pattern Recognition</font>*, 2010, pp. 1-7. (**EI**)
-15. Face Recognition Using DT-CWT Feature Based 2DPCA.
+15. Face Recognition Using DT-CWT Feature Based 2DPCA.  
     Zhongxi Sun, Wankou Yang, Changyin Sun, **Jifeng Shen**.
     *<font color="blue">Chinese Conference on Pattern Recognition</font>*, 2010. (**EI**)
-16. Improving the Algorithm of Temporal Relation Propagation.
+16. Improving the Algorithm of Temporal Relation Propagation.  
     **Jifeng Shen**, Dan Xu, Tongming Liu.
     *<font color="blue">Proceedings of SPIE</font>*, 2005. (**EI**)
 

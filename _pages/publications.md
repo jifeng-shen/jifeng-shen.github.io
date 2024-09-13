@@ -111,10 +111,10 @@ author_profile: true
     *<font color="blue">Journal of Pipeline Systems Engineering and Practice</font>*, 2023, 15(1): 04023044. (SCI)
 35. PARDet: Dynamic Point Set Alignment for Rotated Object Detection.
     Yihao Xu, **Jifeng Shen**, Ming Dai, Wankou Yang.
-    *<font color="blue">Pattern Recognition</font>*, 2024, 110534. (SCI JCR Q1)
+    *<font color="blue">Pattern Recognition</font>*, 2024, 110534. (SCI JCR Q1) [code](https://github.com/Xuyihaoby/PARDet)
 36. Multi-Label Sewer Pipe Defect Recognition with Mask Attention Feature Enhancement and Label Correlation Learning.
     Xin Zuo, Yu Sheng, **Jifeng Shen**, Yongwei Shan.
-    *<font color="blue">Journal of Computing in Civil Engineering</font>*, 2024. (SCI JCR Q1, Accepted)
+    *<font color="blue">Journal of Computing in Civil Engineering</font>*, 2024. (SCI JCR Q1, Accepted) [code](https://github.com/shengyu27/MA-Q2L)
 37. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.
     Jun Sun, Haitao Jin, Xiaohong Wu, Hu Lu, **Jifeng Shen**, Chunxia Dai.
     *<font color="blue">Transactions of the Chinese Society for Agricultural Machinery</font>*, 49(8): 316-323, 2018.

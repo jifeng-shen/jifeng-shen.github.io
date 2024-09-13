@@ -115,7 +115,7 @@ author_profile: true
 36. Multi-Label Sewer Pipe Defect Recognition with Mask Attention Feature Enhancement and Label Correlation Learning.  
     Xin Zuo, Yu Sheng, **Jifeng Shen**, Yongwei Shan.  
     *<font color="blue">Journal of Computing in Civil Engineering</font>*, 2024. (SCI JCR Q1, Accepted) [code](https://github.com/shengyu27/MA-Q2L)
-37. 44. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  
+37. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  
     Xin Zuo, Chenhui Qi, Yifei Chen, **Jifeng Shen***, Heng Fan and Wankou Yang.  
     *<font color="blue">IEEE Access</font>*, vol 12, pp. 114212-114226, 2024.
 38. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.  

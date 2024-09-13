@@ -133,7 +133,9 @@ author_profile: true
 42. Pedestrian Detection Method for Complex Scenes Based on Dual Keypoint Combination.
     Changbao Sheng, **Jifeng Shen**, Yifei Chen, Xin Zuo, Wankou Yang.
     *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 2023. (Accepted)
-
+43. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.
+    Xin Zuo, Chenhui Qi, Yifei Chen, Jifeng Shen, Heng Fan and Wankou Yang.
+    *<font color="blue">IEEE Access</font>*, vol 12, pp. 114212-114226, 2024.
 ---
 
 

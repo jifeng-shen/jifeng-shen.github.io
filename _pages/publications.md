@@ -11,37 +11,37 @@ author_profile: true
    **Jifeng Shen***, Yifei Chen, Yue Liu, Xin Zuo, Heng Fan, Wankou Yang.  
    *<font color="blue">Pattern Recognition</font>*, 2024, 145: 109913. (SCI JCR Q1) [code](https://github.com/chanchanchan97/ICAFusion)
 2. SSPNet: Scale and Spatial Priors Guided Generalizable and Interpretable Pedestrian Attribute Recognition.  
-   **Jifeng Shen**, Teng Guo, Xin Zuo, Heng Fan, Wankou Yang.  
+   **Jifeng Shen***, Teng Guo, Xin Zuo, Heng Fan, Wankou Yang.  
    *<font color="blue">Pattern Recognition</font>*, 2024, 148: 110194. (SCI JCR Q1) [code](https://github.com/guotengg/SSPNet)
 3. Mask-guided Explicit Feature Modulation for Multispectral Pedestrian Detection.  
-   **Jifeng Shen**, Yue Liu, Yifei Chen, Xin Zuo, Jun Li, Wankou Yang.  
+   **Jifeng Shen***, Yue Liu, Yifei Chen, Xin Zuo, Jun Li, Wankou Yang.  
    *<font color="blue">Computers and Electrical Engineering</font>*, 2022, 103: 108385. (SCI JCR Q2)
 4. Differential Features for Pedestrian Detection: A Taylor Series Perspective.  
-   **Jifeng Shen**, Xin Zuo, Wankou Yang, Danil Prokhorov, Xue Mei, Haibin Ling.  
+   **Jifeng Shen***, Xin Zuo, Wankou Yang, Danil Prokhorov, Xue Mei, Haibin Ling.  
    *<font color="blue">IEEE Transactions on Intelligent Transportation Systems</font>*, 2019, 20(8): 2913-2922. (SCI JCR Q1)
 5. Pedestrian Proposal and Refining Based on the Shared Pixel Differential Feature.  
-   **Jifeng Shen**, Xin Zuo, Lei Zhu, Jun Li, Wankou Yang, Haibin Ling.  
+   **Jifeng Shen***, Xin Zuo, Lei Zhu, Jun Li, Wankou Yang, Haibin Ling.  
    *<font color="blue">IEEE Transactions on Intelligent Transportation Systems</font>*, 2019, 20(6): 2085-2095. (SCI JCR Q1)
 6. A Novel Pixel Neighborhood Differential Statistic Feature for Pedestrian and Face Detection.  
-   **Jifeng Shen**, Xin Zuo, Wankou Yang.  
+   **Jifeng Shen***, Xin Zuo, Jun Li, Wankou Yang, Haibin Ling.  
    *<font color="blue">Pattern Recognition</font>*, 2017, 63: 127–138. (SCI JCR Q1)
 7. Learning Discriminative Features Based on Data Distribution and Shape Statistics for Pedestrian Detection.  
-   **Jifeng Shen**, Xin Zuo, Wankou Yang, Hualong Yu, Guohai Liu.  
+   **Jifeng Shen***, Xin Zuo, Wankou Yang, Hualong Yu, Guohai Liu.  
    *<font color="blue">Neurocomputing</font>*, 2016, 184: 66–77. (SCI JCR Q1)
 8. Supervised Local High-order Differential Channel Feature Learning for Pedestrian Detection.  
-   **Jifeng Shen**, Xin Zuo, Haoran Wang, Wankou Yang.  
+   **Jifeng Shen***, Xin Zuo, Haoran Wang, Wankou Yang.  
    *<font color="blue">Neural Processing Letters</font>*, 2017, 45(3): 1025–1037. (SCI JCR Q2)
 9. Real-Time Human Detection Based on Gentle MILBoost with Variable Granularity HOG-CSLBP.  
-   **Jifeng Shen**, Changyin Sun, Wankou Yang, Zhongxi Sun.  
+   **Jifeng Shen***, Changyin Sun, Wankou Yang, Zhongxi Sun.  
    *<font color="blue">Neural Computing & Applications</font>*, 2013, 23(7-8): 1937-1948. (SCI JCR Q1)
 10. A Novel Distribution-Based Feature for Rapid Object Detection.  
-    **Jifeng Shen**, Changyin Sun, Wankou Yang, Zhenyu Wang, Zhongxi Sun.  
+    **Jifeng Shen***, Changyin Sun, Wankou Yang, Zhenyu Wang, Zhongxi Sun.  
     *<font color="blue">Neurocomputing</font>*, 2011, 74(17): 2767–2779. (SCI JCR Q1)
 11. Action Unit Detection and Key Frame Selection for Human Activity Prediction.  
     Haoran Wang, Chunfeng Yuan, **Jifeng Shen**, Wankou Yang, Haibin Ling.  
     *<font color="blue">Neurocomputing</font>*, 2018, 318: 109-119. (SCI JCR Q1)
 12. Fast Pedestrian Detection Based on the Selective Window Differential Filter.  
-    Xin Zuo, **Jifeng Shen**, Hualong Yu, Dan Xu, Chengshan Qian, Yongwei Shan.  
+    Xin Zuo, **Jifeng Shen***, Hualong Yu, Dan Xu, Chengshan Qian, Yongwei Shan.  
     *<font color="blue">Neural Processing Letters</font>*, 2018, 48(1): 403-417. (SCI JCR Q2)
 13. Building and Climbing Based Visual Navigation Framework for Self-Driving Cars.  
     Chengshan Qian, Xinfeng Shen, Yonghong Zhang, Qing Yang, **Jifeng Shen**, Haiwei Zhu.  
@@ -71,7 +71,7 @@ author_profile: true
     Bing Lu, Jun Sun, Ning Yang, Xiaohong Wu, Xin Zhou, **Jifeng Shen**.  
     *<font color="blue">Journal of Food Process Engineering</font>*, 2018, 41(5). (SCI)
 22. Classifying Cracks at Sub-Class Level in Closed Circuit Television Sewer Inspection Videos.  
-    Xin Zuo, Bin Dai, Yongwei Shan, **Jifeng Shen**, Chunlong Hu, Shucheng Huang.  
+    Xin Zuo, Bin Dai, Yongwei Shan*, **Jifeng Shen***, Chunlong Hu, Shucheng Huang.  
     *<font color="blue">Automation in Construction</font>*, 2020, 118: 103289. (SCI JCR Q1)
 23. Research on Nondestructive Identification of Grape Varieties Based on EEMD-DWT and Hyperspectral Image.  
     Min Xu, Jun Sun, Xin Zhou, Ningqiu Tang, **Jifeng Shen**, Xiaohong Wu.  
@@ -89,13 +89,13 @@ author_profile: true
     Jun Sun, Kaifeng Yang, Chen Chen, **Jifeng Shen**, Yu Yang, Xiaohong Wu, Tomas Norton.  
     *<font color="blue">Computers and Electronics in Agriculture</font>*, 2022, 193: 106705. (SCI Q1)
 28. LGADet: Lightweight Anchor-Free Multispectral Pedestrian Detection with Mixed Local and Global Attention.  
-    Xin Zuo, Zhi Wang, **Jifeng Shen**, Haoran Wang.  
+    Xin Zuo, Zhi Wang, **Jifeng Shen***, Haoran Wang.  
     *<font color="blue">Neural Processing Letters</font>*, 2023, 55(3): 2935–2952. (SCI JCR Q2)
 29. Improving Multispectral Pedestrian Detection with Scale-Aware Permutation Attention and Adjacent Feature Aggregation.  
-    Xin Zuo, Zhi Wang, **Jifeng Shen**, Wankou Yang.  
+    Xin Zuo, Zhi Wang, **Jifeng Shen***, Wankou Yang.  
     *<font color="blue">IET Computer Vision</font>*, 2023, 17(7): 726-738. (SCI JCR Q2)
 30. Multi-Granularity Feature Aggregation with Self-Attention and Spatial Reasoning for Fine-Grained Crop Disease Classification.  
-    Xin Zuo, Jiao Chu, **Jifeng Shen**, Jun Sun.  
+    Xin Zuo, Jiao Chu, **Jifeng Shen***, Jun Sun.  
     *<font color="blue">Agriculture</font>*, 2022, 12(9): 1499. (SCI)
 31. Identifying Field Crop Diseases Using Transformer-Embedded Convolutional Neural Network.  
     Weidong Zhu, Jun Sun, Simin Wang, **Jifeng Shen**, Kaifeng Yang, Xin Zhou.  
@@ -116,7 +116,7 @@ author_profile: true
     Xin Zuo, Yu Sheng, **Jifeng Shen**, Yongwei Shan.  
     *<font color="blue">Journal of Computing in Civil Engineering</font>*, 2024. (SCI JCR Q1, Accepted) [code](https://github.com/shengyu27/MA-Q2L)
 37. 44. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  
-    Xin Zuo, Chenhui Qi, Yifei Chen, **Jifeng Shen**, Heng Fan and Wankou Yang.  
+    Xin Zuo, Chenhui Qi, Yifei Chen, **Jifeng Shen***, Heng Fan and Wankou Yang.  
     *<font color="blue">IEEE Access</font>*, vol 12, pp. 114212-114226, 2024.
 38. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.
     基于低秩自动编码器及高光谱图像的茶叶品种鉴别.(In Chinese)  

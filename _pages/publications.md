@@ -118,7 +118,7 @@ author_profile: true
 37. 44. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  
     Xin Zuo, Chenhui Qi, Yifei Chen, **Jifeng Shen***, Heng Fan and Wankou Yang.  
     *<font color="blue">IEEE Access</font>*, vol 12, pp. 114212-114226, 2024.
-38. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.
+38. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.  
     基于低秩自动编码器及高光谱图像的茶叶品种鉴别.(In Chinese)  
     Jun Sun, Haitao Jin, Xiaohong Wu, Hu Lu, **Jifeng Shen**, Chunxia Dai.  
     *<font color="blue">Transactions of the Chinese Society for Agricultural Machinery</font>*, 49(8): 316-323, 2018.

@@ -32,15 +32,13 @@ redirect_from:
 
 2. **National Natural Science Youth Fund**: Application of Sparse Representation in Image Feature Extraction (No. 61005008), 2011.1–2013.12. (Participant)
 
-3. **Jiangsu Natural Science Youth Fund**: Research on Face Attribute Recognition Methods Based on Weakly Labeled Images (No. BK20140566), 2014.7–2017.6. (Chief Investigator)
+3. **Jiangsu Natural Science Youth Fund**: Research on Face Attribute Recognition Methods Based on Weakly Labeled Images (No. BK20140566), 2014.7–2017.6.(Chief Investigator)
 
 4. **China Postdoctoral Science Foundation**: Research on Face Semantic Feature Recognition via Multi-attribute Joint Learning (No. 2014M561586), 2014.10–2016.10. (Chief Investigator)
 
-5. **Jiangsu Natural Science Youth Fund**: Multi-Attribute Learning Methods for Face Semantic Feature Recognition (No. BK20150470), 2015.7–2018.6. (Participant)
+5. **Jiangsu Natural Science Youth Fund**: Multi-Attribute Learning Methods for Face Semantic Feature Recognition (No. BK20150470), 2015.7–2018.6.(Participant)
 
-6. **National Natural Science Foundation of China**: Spatiotemporal Feature-Driven Sparse Learning for Missing Traffic Flow Data Imputation in Road Networks (No. 61773184), 2018.1–2021.12.
-
-   (Participant, Ranked 2nd)
+6. **National Natural Science Foundation of China**: Spatiotemporal Feature-Driven Sparse Learning for Missing Traffic Flow Data Imputation in Road Networks (No. 61773184), 2018.1–2021.12. (Participant, Ranked 2nd)
 
 7. **Jiangsu Natural Science General Fund**: Multi-Source Image Feature Fusion Methods for All-Weather Pedestrian Detection (No. BK20191427), 2019.7–2022.6. (Chief Investigator)
 

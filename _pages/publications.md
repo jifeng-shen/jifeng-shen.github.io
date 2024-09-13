@@ -115,28 +115,33 @@ author_profile: true
 36. Multi-Label Sewer Pipe Defect Recognition with Mask Attention Feature Enhancement and Label Correlation Learning.  
     Xin Zuo, Yu Sheng, **Jifeng Shen**, Yongwei Shan.  
     *<font color="blue">Journal of Computing in Civil Engineering</font>*, 2024. (SCI JCR Q1, Accepted) [code](https://github.com/shengyu27/MA-Q2L)
-37. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.  
-    Jun Sun, Haitao Jin, Xiaohong Wu, Hu Lu, **Jifeng Shen**, Chunxia Dai.  
-    *<font color="blue">Transactions of the Chinese Society for Agricultural Machinery</font>*, 49(8): 316-323, 2018.
-38. Recognition of Crop Seedlings and Weeds Based on Convolutional Neural Network with Dilated Convolution and Global Pooling.  
-    Jun Sun, Xiaofei He, Wenjun Tan, Xiaohong Wu, **Jifeng Shen**, Hu Lu.  
-    *<font color="blue">Transactions of the Chinese Society of Agricultural Engineering</font>*, 34(11): 159-165, 2018.
-39. Multi-view Face Detection Based on Multi-channel Image Discriminant Projection and HAAR Features.(In Chinese)  
-    **Jifeng Shen***, Shiwei Shi, Xin Zuo, Dan Xu.  
-    *<font color="blue">Journal of Data Acquisition and Processing</font>*, 33(2): 270-279, 2018.
-40. Anchor-Free Multispectral Pedestrian Detection Algorithm Based on Differential Feature Attention Mechanism.(In Chinese)  
-    **Jifeng Shen***, Yue Liu, Hao Wei, Xin Zuo, Wankou Yang.  
-    *<font color="blue">Journal of Intelligent Science and Technology</font>*, 3(3): 294-303, 2021.
-41. Recognition of Crop Leaf Diseases Based on Feature-Level and Decision-Level Fusion.(In Chinese)  
-    Ziheng Wang, **Jifeng Shen**, Xin Zuo, Xiaohong Wu, Jun Sun.  
-    *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 45(3): 286-294, 2024. 
-43. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  
-42. Pedestrian Detection Method for Complex Scenes Based on Dual Keypoint Combination.(In Chinese)  
-    Changbao Sheng, **Jifeng Shen**, Yifei Chen, Xin Zuo, Wankou Yang.  
-    *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 2023. (Accepted)
-43. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  
+37. 44. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  
     Xin Zuo, Chenhui Qi, Yifei Chen, **Jifeng Shen**, Heng Fan and Wankou Yang.  
     *<font color="blue">IEEE Access</font>*, vol 12, pp. 114212-114226, 2024.
+38. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.
+    基于低秩自动编码器及高光谱图像的茶叶品种鉴别.(In Chinese)  
+    Jun Sun, Haitao Jin, Xiaohong Wu, Hu Lu, **Jifeng Shen**, Chunxia Dai.  
+    *<font color="blue">Transactions of the Chinese Society for Agricultural Machinery</font>*, 49(8): 316-323, 2018.
+39. Recognition of Crop Seedlings and Weeds Based on Convolutional Neural Network with Dilated Convolution and Global Pooling.  
+    空洞卷积结合全局池化的卷积神经网络识别作物幼苗与杂草.(In Chinese)  
+    Jun Sun, Xiaofei He, Wenjun Tan, Xiaohong Wu, **Jifeng Shen**, Hu Lu.  
+    *<font color="blue">Transactions of the Chinese Society of Agricultural Engineering</font>*, 34(11): 159-165, 2018.
+40. Multi-view Face Detection Based on Multi-channel Image Discriminant Projection and HAAR Features.  
+    基于多通道图判别投影HAAR特征的多视角人脸检测.(In Chinese)  
+    **Jifeng Shen***, Shiwei Shi, Xin Zuo, Dan Xu.  
+    *<font color="blue">Journal of Data Acquisition and Processing</font>*, 33(2): 270-279, 2018.
+41. Anchor-Free Multispectral Pedestrian Detection Algorithm Based on Differential Feature Attention Mechanism.  
+    基于差分特征注意力机制的无锚框多光谱行人检测算法.(In Chinese)  
+    **Jifeng Shen***, Yue Liu, Hao Wei, Xin Zuo, Wankou Yang.  
+    *<font color="blue">Journal of Intelligent Science and Technology</font>*, 3(3): 294-303, 2021.
+42. Recognition of Crop Leaf Diseases Based on Feature-Level and Decision-Level Fusion.  
+    基于特征级与决策级融合的农作物叶片病害识别.(In Chinese)    
+    Ziheng Wang, **Jifeng Shen**, Xin Zuo, Xiaohong Wu, Jun Sun.  
+    *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 45(3): 286-294, 2024. 
+43. Pedestrian Detection Method for Complex Scenes Based on Dual Keypoint Combination.  
+    基于双关键点组合的复杂场景行人检测方法.(In Chinese)  
+    Changbao Sheng, **Jifeng Shen**, Yifei Chen, Xin Zuo, Wankou Yang.  
+    *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 2023. (Accepted)
 
 
 # Conference Papers

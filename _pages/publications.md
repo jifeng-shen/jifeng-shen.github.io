@@ -11,8 +11,8 @@ author_profile: true
    **Jifeng Shen**, Yifei Chen, Yue Liu, Xin Zuo, Heng Fan, Wankou Yang.
    *<font color="blue">Pattern Recognition</font>*, 2024, 145: 109913. (SCI JCR Q1) [code](https://github.com/chanchanchan97/ICAFusion)
 2. SSPNet: Scale and Spatial Priors Guided Generalizable and Interpretable Pedestrian Attribute Recognition.
-   **Jifeng Shen**, Teng Guo, Xin Zuo, Heng Fan, Wankou Yang. [code](https://github.com/guotengg/SSPNet)
-   *<font color="blue">Pattern Recognition</font>*, 2024, 148: 110194. (SCI JCR Q1)
+   **Jifeng Shen**, Teng Guo, Xin Zuo, Heng Fan, Wankou Yang. 
+   *<font color="blue">Pattern Recognition</font>*, 2024, 148: 110194. (SCI JCR Q1) [code](https://github.com/guotengg/SSPNet)
 3. Mask-guided Explicit Feature Modulation for Multispectral Pedestrian Detection.
    **Jifeng Shen**, Yue Liu, Yifei Chen, Xin Zuo, Jun Li, Wankou Yang.
    *<font color="blue">Computers and Electrical Engineering</font>*, 2022, 103: 108385. (SCI JCR Q2)

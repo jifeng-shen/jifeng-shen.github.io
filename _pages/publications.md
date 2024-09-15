@@ -117,7 +117,7 @@ author_profile: true
     *<font color="blue">Journal of Computing in Civil Engineering</font>*, 2024. (SCI JCR Q1, Accepted) [code](https://github.com/shengyu27/MA-Q2L)
 37. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  
     Xin Zuo, Chenhui Qi, Yifei Chen, **Jifeng Shen***, Heng Fan and Wankou Yang.  
-    *<font color="blue">IEEE Access</font>*, vol 12, pp. 114212-114226, 2024.
+    *<font color="blue">IEEE Access</font>*, vol 12, pp. 114212-114226, 2024. [code](https://github.com/qch777/LSACF)
 38. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.  
     基于低秩自动编码器及高光谱图像的茶叶品种鉴别.(In Chinese)  
     Jun Sun, Haitao Jin, Xiaohong Wu, Hu Lu, **Jifeng Shen**, Chunxia Dai.  

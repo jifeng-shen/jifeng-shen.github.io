@@ -118,8 +118,8 @@ author_profile: true
 37. Learnable Cross-Scale Sparse Attention Guided Feature Fusion for UAV Object Detection.  
     Xin Zuo, Chenhui Qi, Yifei Chen, **Jifeng Shen***, Heng Fan and Wankou Yang.  
     *<font color="blue">IEEE Access</font>*, vol 12, pp. 114212-114226, 2024. [code](https://github.com/qch777/LSACF)
-38. CrackMamba: Topology-aware Mamba for Crack Segmentation in Structures.
-    Xin Zuo, Yu Sheng, **Jifeng Shen**, Yongwei Shan.
+38. CrackMamba: Topology-aware Mamba for Crack Segmentation in Structures.  
+    Xin Zuo, Yu Sheng, **Jifeng Shen**, Yongwei Shan.  
     *<font color="blue">Automation in Construction</font>*, minor revision, 2024. [code]( https://github.com/shengyu27/CrackMamba)
 40. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.
     基于低秩自动编码器及高光谱图像的茶叶品种鉴别.(In Chinese)  

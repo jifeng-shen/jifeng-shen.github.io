@@ -121,7 +121,7 @@ author_profile: true
 38. CrackMamba: Topology-aware Mamba for Crack Segmentation in Structures.  
     Xin Zuo, Yu Sheng, **Jifeng Shen**, Yongwei Shan.  
     *<font color="blue">Automation in Construction</font>*, minor revision, 2024. [code]( https://github.com/shengyu27/CrackMamba)
-39. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.
+39. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.  
     基于低秩自动编码器及高光谱图像的茶叶品种鉴别.(In Chinese)  
     Jun Sun, Haitao Jin, Xiaohong Wu, Hu Lu, **Jifeng Shen**, Chunxia Dai.  
     *<font color="blue">Transactions of the Chinese Society for Agricultural Machinery</font>*, 49(8): 316-323, 2018.

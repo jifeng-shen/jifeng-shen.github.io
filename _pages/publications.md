@@ -147,7 +147,7 @@ author_profile: true
     *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 46(2):140-148,2025.
 45. Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention
      Xin Zuo, Jiaran Jiang, **Jifeng Shen**, Wankou Yang.
-    *<font color="blue">Pattern Analysis and Applications*</font>, (2025)28:80,2025
+    *<font color="blue">Pattern Analysis and Applications*</font>, (2025)28:80,2025.(code)(https://github.com/SAWRJJ/UWSegFormer).
 
 
 # Conference Papers

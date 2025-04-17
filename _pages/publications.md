@@ -139,14 +139,14 @@ author_profile: true
     *<font color="blue">Journal of Intelligent Science and Technology</font>*, 3(3): 294-303, 2021.
 43. Recognition of Crop Leaf Diseases Based on Feature-Level and Decision-Level Fusion.  
     基于特征级与决策级融合的农作物叶片病害识别.(In Chinese)    
-    Ziheng Wang, **Jifeng Shen**, Xin Zuo, Xiaohong Wu, Jun Sun.  
+    Ziheng Wang, **Jifeng Shen**v, Xin Zuo, Xiaohong Wu, Jun Sun.  
     *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 45(3): 286-294, 2024. 
 44. Pedestrian Detection Method for Complex Scenes Based on Dual Keypoint Combination.  
     基于双关键点组合的复杂场景行人检测方法.(In Chinese)  
-    Changbao Sheng, **Jifeng Shen**, Yifei Chen, Xin Zuo, Wankou Yang.  
+    Changbao Sheng, **Jifeng Shen***, Yifei Chen, Xin Zuo, Wankou Yang.  
     *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 46(2):140-148,2025.
 45. Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention
-     Xin Zuo, Jiaran Jiang, **Jifeng Shen**, Wankou Yang.
+     Xin Zuo, Jiaran Jiang, **Jifeng Shen***, Wankou Yang.
     *<font color="blue">Pattern Analysis and Applications*</font>, (2025)28:80,2025.[code](https://github.com/SAWRJJ/UWSegFormer).
 
 

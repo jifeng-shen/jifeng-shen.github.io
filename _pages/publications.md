@@ -8,7 +8,7 @@ author_profile: true
 # Journal Papers
 
 1. IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection.   
-   Jifeng Shen, Haibo Zhan, Xin Zuo, Heng Fan, Xiaohui Yuan, Jun Li, Wankou Yang.   
+   **Jifeng Shen***, Haibo Zhan, Xin Zuo, Heng Fan, Xiaohui Yuan, Jun Li, Wankou Yang.
    https://arxiv.org/abs/2509.09085, 2025.[code](https://github.com/61s61min/IRDFusion)   
 3. Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection.   
    **Jifeng Shen***, Haibo Zhan, Shaohua Dong, Xin Zuo, Wankou Yang, Haibin Ling.   
@@ -154,8 +154,8 @@ author_profile: true
 48. Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention.  
     Xin Zuo, Jiaran Jiang, **Jifeng Shen***, Wankou Yang.  
     *<font color="blue">Pattern Analysis and Applications*</font>, (2025)28:80, 2025.[code](https://github.com/SAWRJJ/UWSegFormer).
-49. Near-infrared spectroscopy coupled with machine learning algorithms based on L1-norm and L21-norm to identify the geographical origins of Chinese wolfberry.
-    Xiao Zhu, Xiaohong Wu, Jifeng Shen, Jun Sun, Bin Wu.
+49. Near-infrared spectroscopy coupled with machine learning algorithms based on L1-norm and L21-norm to identify the geographical origins of Chinese wolfberry.  
+    Xiao Zhu, Xiaohong Wu, Jifeng Shen, Jun Sun, Bin Wu.  
     *<font color="blue">Food Chemistry*</font>, 493(2), 2025, 145863.
     
     

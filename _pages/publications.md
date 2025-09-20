@@ -77,7 +77,7 @@ author_profile: true
     Bing Lu, Jun Sun, Ning Yang, Xiaohong Wu, Xin Zhou, **Jifeng Shen**.  
     *<font color="blue">Journal of Food Process Engineering</font>*, 2018, 41(5). (SCI)
 26. Classifying Cracks at Sub-Class Level in Closed Circuit Television Sewer Inspection Videos.  
-    Xin Zuo, Bin Dai, Yongwei Shan*, **Jifeng Shen**\*, Chunlong Hu, Shucheng Huang.  
+    Xin Zuo, Bin Dai, Yongwei Shan\*, **Jifeng Shen**\*, Chunlong Hu, Shucheng Huang.  
     *<font color="blue">Automation in Construction</font>*, 2020, 118: 103289. (SCI JCR Q1)
 27. Research on Nondestructive Identification of Grape Varieties Based on EEMD-DWT and Hyperspectral Image.  
     Min Xu, Jun Sun, Xin Zhou, Ningqiu Tang, **Jifeng Shen**, Xiaohong Wu.  
@@ -125,7 +125,7 @@ author_profile: true
     Xin Zuo, Chenhui Qi, Yifei Chen, **Jifeng Shen**\*, Heng Fan and Wankou Yang.  
     *<font color="blue">IEEE Access</font>*, vol 12, pp. 114212-114226, 2024. [code](https://github.com/qch777/LSACF)
 42. CrackMamba: Topology-aware Mamba for Crack Segmentation in Structures.  
-    Xin Zuo, Yu Sheng, **Jifeng Shen**\*, Yongwei Shan*.  
+    Xin Zuo, Yu Sheng, **Jifeng Shen**\*, Yongwei Shan\*.  
     *<font color="blue">Automation in Construction</font>*, 168(2024), 105845, 2024. (SCI JCR Q1) [code]( https://github.com/shengyu27/CrackMamba)
 43. Identification of Tea Varieties Based on Low-Rank Autoencoder and Hyperspectral Image.  
     基于低秩自动编码器及高光谱图像的茶叶品种鉴别.(In Chinese)  
@@ -156,7 +156,7 @@ author_profile: true
     *<font color="blue">Pattern Analysis and Applications*</font>, (2025)28:80, 2025.[code](https://github.com/SAWRJJ/UWSegFormer).
 50. Near-infrared spectroscopy coupled with machine learning algorithms based on L1-norm and L21-norm to identify the geographical origins of Chinese wolfberry.  
     Xiao Zhu, Xiaohong Wu, **Jifeng Shen**, Jun Sun, Bin Wu.  
-    *<font color="blue">Food Chemistry*</font>, 493(2), 2025, 145863.
+    *<font color="blue">Food Chemistry</font>*, 493(2), 2025, 145863.
     
     
 

@@ -14,7 +14,7 @@ author_profile: true
    **Jifeng Shen***, Haibo Zhan, Shaohua Dong, Xin Zuo, Wankou Yang, Haibin Ling.   
    https://arxiv.org/abs/2507.14643, 2025.[code](https://github.com/61s61min/MS2Fusion)   
 4. ICAFusion: Iterative Cross-Attention Guided Feature Fusion for Multispectral Object Detection.   
-   **Jifeng Shen***, Yifei Chen, Yue Liu, Xin Zuo, Heng Fan, Wankou Yang.  
+   **Jifeng Shen***, Yifei Chen, Yue Liu, Xin Zuo, Heng Fan, Wankou Yang.   
    <font color="blue">Pattern Recognition</font>, 2024, 145: 109913. (SCI JCR Q1) [code](https://github.com/chanchanchan97/ICAFusion)
 6. SSPNet: Scale and Spatial Priors Guided Generalizable and Interpretable Pedestrian Attribute Recognition.  
    **Jifeng Shen***, Teng Guo, Xin Zuo, Heng Fan, Wankou Yang.  

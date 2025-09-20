@@ -153,7 +153,7 @@ author_profile: true
     *<font color="blue">Journal of Jiangsu University (Natural Science Edition)</font>*, 46(2):140-148, 2025.
 49. Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention.  
     Xin Zuo, Jiaran Jiang, **Jifeng Shen**\*, Wankou Yang.  
-    *<font color="blue">Pattern Analysis and Applications*</font>, (2025)28:80, 2025.[code](https://github.com/SAWRJJ/UWSegFormer).
+    *<font color="blue">Pattern Analysis and Applications</font>*, (2025)28:80, 2025.[code](https://github.com/SAWRJJ/UWSegFormer).
 50. Near-infrared spectroscopy coupled with machine learning algorithms based on L1-norm and L21-norm to identify the geographical origins of Chinese wolfberry.  
     Xiao Zhu, Xiaohong Wu, **Jifeng Shen**, Jun Sun, Bin Wu.  
     *<font color="blue">Food Chemistry</font>*, 493(2), 2025, 145863.

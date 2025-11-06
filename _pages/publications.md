@@ -12,7 +12,7 @@ author_profile: true
    https://arxiv.org/abs/2509.09085, 2025.[code](https://github.com/61s61min/IRDFusion)   
 2. Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection.   
    **Jifeng Shen**\*, Haibo Zhan, Shaohua Dong, Xin Zuo, Wankou Yang, Haibin Ling.   
-   *<font color="blue">Information Fusion</font>*, 2025.[code](https://github.com/61s61min/MS2Fusion)   
+   *<font color="blue">Information Fusion</font>*, 127(2026), 103895.[code](https://github.com/61s61min/MS2Fusion)   
 3. ICAFusion: Iterative Cross-Attention Guided Feature Fusion for Multispectral Object Detection.   
    **Jifeng Shen**\*, Yifei Chen, Yue Liu, Xin Zuo, Heng Fan, Wankou Yang.  
    *<font color="blue">Pattern Recognition</font>*, 2024, 145: 109913. (SCI JCR Q1)🏆🔥 [code](https://github.com/chanchanchan97/ICAFusion)

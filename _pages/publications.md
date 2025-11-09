@@ -159,7 +159,7 @@ author_profile: true
     *<font color="blue">Food Chemistry</font>*, 493(2), 2025, 145863.
 51. SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection.  
     Xin Zuo, Yuchen Qu, Haibo Zhan, **Jifeng Shen**\* and Wankou Yang.  
-    *<font color="blue">IEEE Transactions on Geoscience and Remote Sensing</font>*, 2026.[code]([https://github.com/qchenyu1027/SFFR])
+    *<font color="blue">IEEE Transactions on Geoscience and Remote Sensing</font>*, 2026.[code](https://github.com/qchenyu1027/SFFR)
 
 # Conference Papers
 

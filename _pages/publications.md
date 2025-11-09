@@ -157,8 +157,8 @@ author_profile: true
 50. Near-infrared spectroscopy coupled with machine learning algorithms based on L1-norm and L21-norm to identify the geographical origins of Chinese wolfberry.  
     Xiao Zhu, Xiaohong Wu, **Jifeng Shen**, Jun Sun, Bin Wu.  
     *<font color="blue">Food Chemistry</font>*, 493(2), 2025, 145863.
-51. SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection.
-    Xin Zuo, Yuchen Qu, Haibo Zhan, **Jifeng Shen**\* and Wankou Yang. 
+51. SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection.  
+    Xin Zuo, Yuchen Qu, Haibo Zhan, **Jifeng Shen**\* and Wankou Yang.  
     *<font color="blue">IEEE Transactions on Geoscience and Remote Sensing</font>*, 2026.[code]([https://github.com/qchenyu1027/SFFR])
 
 # Conference Papers

@@ -154,12 +154,12 @@ author_profile: true
 49. Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention.  
     Xin Zuo, Jiaran Jiang, **Jifeng Shen**\*, Wankou Yang.  
     *<font color="blue">Pattern Analysis and Applications</font>*, (2025)28:80, 2025.[code](https://github.com/SAWRJJ/UWSegFormer).
-50. Near-infrared spectroscopy coupled with machine learning algorithms based on L1-norm and L21-norm to identify the geographical origins of Chinese wolfberry.  
+50. Near-infrared spectroscopy coupled with machine learning algorithms based on L1-norm and L21-norm to identify the geographical origins of Chinese wolfberry. 
     Xiao Zhu, Xiaohong Wu, **Jifeng Shen**, Jun Sun, Bin Wu.  
     *<font color="blue">Food Chemistry</font>*, 493(2), 2025, 145863.
 51. SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection.  
     Xin Zuo, Chenyu Qu, Haibo Zhan, **Jifeng Shen**\* and Wankou Yang.  
-    *<font color="blue">IEEE Transactions on Geoscience and Remote Sensing</font>*, 2026.[code](https://github.com/qchenyu1027/SFFR)
+    *<font color="blue">IEEE Transactions on Geoscience and Remote Sensing</font>*, 63(2025), 5408611.[code](https://github.com/qchenyu1027/SFFR)
 
 # Conference Papers
 

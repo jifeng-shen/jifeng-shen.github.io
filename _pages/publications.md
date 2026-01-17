@@ -9,7 +9,7 @@ author_profile: true
 
 1. IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection.   
    **Jifeng Shen**\*, Haibo Zhan, Xin Zuo, Heng Fan, Xiaohui Yuan, Jun Li, Wankou Yang.  
-   https://arxiv.org/abs/2509.09085, 2025.[code](https://github.com/61s61min/IRDFusion)   
+   *<font color="blue">Pattern Recognition</font>*,minor revision, 2026.[code](https://github.com/61s61min/IRDFusion)   
 2. Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection.   
    **Jifeng Shen**\*, Haibo Zhan, Shaohua Dong, Xin Zuo, Wankou Yang, Haibin Ling.   
    *<font color="blue">Information Fusion</font>*, 127(2026), 103895.(SCI JCR Q1) [code](https://github.com/61s61min/MS2Fusion)   

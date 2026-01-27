@@ -7,19 +7,22 @@ author_profile: true
 
 # Journal Papers
 
-1. IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection.   
+1. DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection.
+   Silieng Wang, Yanshu Li, Bohan Hu, Zhengtao Yao, Zhengdao Li, Linshan Li, Haibo Zhan, Weiming Liu, Junhao Dong, Ruizhi Qian, Guangxin Wu, Zhang, **Jifeng Shen**\*, Piotr Koniusz, Qiang Sun.
+   *<font color="blue">International Conference on Learning Representations (ICLR)</font>*, 2026, Accepted
+3. IRDFusion: Iterative Relation-Map Difference guided Feature Fusion for Multispectral Object Detection.   
    **Jifeng Shen**\*, Haibo Zhan, Xin Zuo, Heng Fan, Xiaohui Yuan, Jun Li, Wankou Yang.  
-   *<font color="blue">Pattern Recognition</font>*, minor revision, 2026.(SCI JCR Q1)[code](https://github.com/61s61min/IRDFusion)   
-2. Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection.   
+   *<font color="blue">Pattern Recognition</font>*, 2026, Accepted.(SCI JCR Q1)[code](https://github.com/61s61min/IRDFusion)   
+4. Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection.   
    **Jifeng Shen**\*, Haibo Zhan, Shaohua Dong, Xin Zuo, Wankou Yang, Haibin Ling.   
    *<font color="blue">Information Fusion</font>*, 127(2026), 103895.(SCI JCR Q1) [code](https://github.com/61s61min/MS2Fusion)   
-3. ICAFusion: Iterative Cross-Attention Guided Feature Fusion for Multispectral Object Detection.   
+5. ICAFusion: Iterative Cross-Attention Guided Feature Fusion for Multispectral Object Detection.   
    **Jifeng Shen**\*, Yifei Chen, Yue Liu, Xin Zuo, Heng Fan, Wankou Yang.  
    *<font color="blue">Pattern Recognition</font>*, 2024, 145: 109913. (SCI JCR Q1)🏆🔥 [code](https://github.com/chanchanchan97/ICAFusion)
-4. SSPNet: Scale and Spatial Priors Guided Generalizable and Interpretable Pedestrian Attribute Recognition.  
+6. SSPNet: Scale and Spatial Priors Guided Generalizable and Interpretable Pedestrian Attribute Recognition.  
    **Jifeng Shen**\*, Teng Guo, Xin Zuo, Heng Fan, Wankou Yang.  
    *<font color="blue">Pattern Recognition</font>*, 2024, 148: 110194. (SCI JCR Q1) [code](https://github.com/guotengg/SSPNet)
-5. Mask-guided Explicit Feature Modulation for Multispectral Pedestrian Detection.  
+7. Mask-guided Explicit Feature Modulation for Multispectral Pedestrian Detection.  
    **Jifeng Shen**\*, Yue Liu, Yifei Chen, Xin Zuo, Jun Li, Wankou Yang.  
    *<font color="blue">Computers and Electrical Engineering</font>*, 2022, 103: 108385. (SCI JCR Q2)
 8. Differential Features for Pedestrian Detection: A Taylor Series Perspective.  

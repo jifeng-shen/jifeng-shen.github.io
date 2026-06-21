@@ -160,6 +160,9 @@ author_profile: true
 51. SFFR: Spatial-Frequency Feature Reconstruction for Multispectral Aerial Object Detection.  
     Xin Zuo, Chenyu Qu, Haibo Zhan, **Jifeng Shen**\* and Wankou Yang.  
     *<font color="blue">IEEE Transactions on Geoscience and Remote Sensing</font>*, 63(2025), 5408611.[code](https://github.com/qchenyu1027/SFFR)
+53. Progressive Pixel-Neighborhood Deformable Cross-Attention for Multispectral Object Detection.
+    Tian Qiu, Jifeng Shen and Xin Zuo.  
+     *<font color="blue">Sensors</font>*, 26(2026), 382.[code](https://github.com/DanielQiuTian/PNAFusion)
 
 # Conference Papers
 

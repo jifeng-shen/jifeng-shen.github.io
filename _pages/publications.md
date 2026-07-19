@@ -166,10 +166,10 @@ author_profile: true
 
 # Conference Papers
 
-1. WIDE: Wildcard Inference with Dynamic Expansion for Cross-modal Generative Retrieval.
+1. WIDE: Wildcard Inference with Dynamic Expansion for Cross-modal Generative Retrieval.   
    Teng Guo, Xin Wang, Xu Jiayou, Zhou Keying, Jifeng Shen, Haoxin Ruan.
    *<font color="blue">34th ACM International Conference on Multimedia (ACMMM)</font>*, 2026, Accepted.
-3. DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection.
+3. DeCo-DETR: Decoupled Cognition DETR for efficient Open-Vocabulary Object Detection.   
    Silieng Wang, Yanshu Li, Bohan Hu, Zhengtao Yao, Zhengdao Li, Linshan Li, Haibo Zhan, Weiming Liu, Junhao Dong, Ruizhi Qian, Guangxin Wu, Zhang, **Jifeng Shen**\*, Piotr Koniusz, Qiang Sun.
    *<font color="blue">International Conference on Learning Representations (ICLR)</font>*, 2026, Accepted
 4. Training a Lightweight CNN Model for Fine-Grained Sewer Pipe Cracks Classification Based on Knowledge Distillation.  

@@ -173,7 +173,7 @@ author_profile: true
    Silieng Wang, Yanshu Li, Bohan Hu, Zhengtao Yao, Zhengdao Li, Linshan Li, Haibo Zhan, Weiming Liu, Junhao Dong, Ruizhi Qian, Guangxin Wu, Zhang, **Jifeng Shen**\*, Piotr Koniusz, Qiang Sun.   
    *<font color="blue">International Conference on Learning Representations (ICLR)</font>*, 2026, Accepted
 5. UMOD: Differential Modality Feature-Guided Calibration for Unregistered Multispectral Object Detection.
-   Haibo Zhan, Yifei Chen, Tianyu Ge, Tian Qiu, Xuo Zuo and **Jifeng Shen**.   
+   Haibo Zhan, Yifei Chen, Tianyu Ge, Tian Qiu, Xuo Zuo and **Jifeng Shen**\*.   
    2026 11th International Conference on Intelligent Computing and Signal Processing, 2026, pp. 2143-2147.
 7. Training a Lightweight CNN Model for Fine-Grained Sewer Pipe Cracks Classification Based on Knowledge Distillation.  
    Beier Ma, Xin Zuo, **Jifeng Shen**, Xin Shu, Shucheng Huang, Yuanhao Li.  

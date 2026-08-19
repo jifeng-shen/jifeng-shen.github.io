@@ -165,7 +165,7 @@ author_profile: true
      *<font color="blue">Sensors</font>*, 2026, 26(12), 3825.[code](https://github.com/DanielQiuTian/PNAFusion)
 54. Authentication and traceability of tea as a high-risk product: A comprehensive review of spectroscopic and chemometric solutions.   
     Xiaohong Wu, Zhichen Lun, Xiao Zhu, Bin Wu, **Jifeng Shen**.  
-     *<font color="blue"> Food Control</font>*, 192 (2027) 112555
+     *<font color="blue"> Food Control</font>*, 192(2027), 112555.
     
 
 # Conference Papers

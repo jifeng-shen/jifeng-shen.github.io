@@ -163,6 +163,10 @@ author_profile: true
 53. Progressive Pixel-Neighborhood Deformable Cross-Attention for Multispectral Object Detection.   
     Tian Qiu, **Jifeng Shen**\* and Xin Zuo.  
      *<font color="blue">Sensors</font>*, 2026, 26(12), 3825.[code](https://github.com/DanielQiuTian/PNAFusion)
+54. Progressive Pixel-Neighborhood Deformable Cross-Attention for Multispectral Object Detection.   
+    Tian Qiu, **Jifeng Shen**\* and Xin Zuo.  
+     *<font color="blue">Sensors</font>*, 2026, 26(12), 3825.[code](https://github.com/DanielQiuTian/PNAFusion)
+    
 
 # Conference Papers
 

@@ -167,7 +167,7 @@ author_profile: true
     Xiaohong Wu, Zhichen Lun, Xiao Zhu, Bin Wu, **Jifeng Shen**.  
      *<font color="blue"> Food Control</font>*, 192(2027), 112555.
 55. STG: Structured Topology of Gridpoints for Occluded Pedestrian Detection.
-    Tian Qiu, **Jifeng Shen**\*, Xin Zuo.   
+    Tian Qiu, **Jifeng Shen**\* and Xin Zuo.  
     *<font color="blue">Sensors</font>*， 2026, 26, 5496.
 57. Non-destructive hyperspectral prediction of oxytetracycline concentration in oilseed rape leaves using an adaptive spectral patch attention network.
      Jun Sun, Weisong Li, Xingyu Ji, Xiaohong Wu, Chunxia Dai, Xin Zhou, **Jifeng Shen**, Juan Liao.   

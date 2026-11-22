@@ -169,10 +169,10 @@ author_profile: true
 55. STG: Structured Topology of Gridpoints for Occluded Pedestrian Detection.
     Tian Qiu, **Jifeng Shen**\*, Xin Zuo.   
     *<font color="blue">Sensors</font>*， 2026, 26, 5496.
-56. Non-destructive hyperspectral prediction of oxytetracycline concentration in oilseed rape leaves using an adaptive spectral patch attention network.
+57. Non-destructive hyperspectral prediction of oxytetracycline concentration in oilseed rape leaves using an adaptive spectral patch attention network.
      Jun Sun, Weisong Li, Xingyu Ji, Xiaohong Wu, Chunxia Dai, Xin Zhou, **Jifeng Shen**, Juan Liao.   
     *<font color="blue">Chemometrics and Intelligent Laboratory Systems</font>*, 279, 2026, 105924.
-57. L1-SNLDA: A novel sparse null space linear discriminant analysis for NIR-based geographical origin discrimination of Chinese wolfberry.
+58. L1-SNLDA: A novel sparse null space linear discriminant analysis for NIR-based geographical origin discrimination of Chinese wolfberry.
      Xiaohong Wu, Xiao Zhu, **Jifeng Shen**, Bin Wu.   
     *<font color="blue">Chemometrics and Intelligent Laboratory Systems</font>*, 280, 2027, 105953.
     
